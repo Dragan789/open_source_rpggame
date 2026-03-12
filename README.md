@@ -31,5 +31,9 @@ The objective of the game is to defeat your opponent by correctly remembering im
 Players who remember previously revealed information can gain advantages such as:
 Predicting enemy actions, choosing optimal attacks, avoiding traps or hidden mechanics
 
+## Architecture/Design
+### List the design component, and do a dash (-) next to it of what object type (architecture) it should beg
+### EG: Main Character - CharacterBody2D
+
 ### License
 https://github.com/herbyxo/open_source_rpggame/blob/main/LICENSE
