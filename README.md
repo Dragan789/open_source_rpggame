@@ -1,5 +1,4 @@
-# open_source_rpggame
-## Software Process Improvement Demo Open Source Project
+# open_source_rpggame - Software Process Improvement Demo Open Source Project
 
 ## Description
 
@@ -10,7 +9,7 @@
 ## Getting Started
 
 
-## Usage
+## How to Play
 
 
 ### License
