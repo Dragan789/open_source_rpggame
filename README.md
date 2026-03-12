@@ -16,7 +16,7 @@ Build Godot from source using the official installation guide for your relevant 
 https://docs.godotengine.org/en/4.4/contributing/development/compiling/index.html
 
 ## How to Play
-1. The game is played by two players.
+1. The game is played by 2-4 players.
 2. During the match, numbers will briefly appear on the screen.
 3. Players must memorize these numbers before they disappear.
 4. Later in the round, players may be asked to recall or use the numbers they saw earlier.
