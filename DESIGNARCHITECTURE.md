@@ -58,5 +58,8 @@ combat : can occur in 2 ways
 - if a player uses "attack" on a nearby henchmen
 - if 2 or more henchmen land on the same tile Once players have done everything in their turn they press 'ready'. Player turns take place based on who pressed 'next turn' first.
 
+Items:
+- Each henchmen can pick up items from the tile they are in
+
 ## UI
 Text-based, grid style.
