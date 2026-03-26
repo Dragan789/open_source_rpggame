@@ -22,6 +22,16 @@ Steal a card from a player
 
 ## Interactions
 When a player enters a new tile, this triggers an interaction.
+Each player starts with 3 henchmen that can explore independantly. In a single player turn each henchman can either:
+
+- move: move one tile at a time
+- attack: attack another player in vicinity
+- use card: activate card
+
+exploration : each player uses their henchmen
+combat : can occur in 2 ways
+- if a player uses "attack" on a nearby henchmen
+- if 2 or more henchmen land on the same tile Once players have done everything in their turn they press 'ready'. Player turns take place based on who pressed 'next turn' first.
 
 ## UI
 Text-based, grid style.
