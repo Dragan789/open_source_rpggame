@@ -60,6 +60,9 @@ combat : can occur in 2 ways
 
 Items:
 - Each henchmen can pick up items from the tile they are in
+- Items can be equipped or stored in the inventory
+- Items can dropped onto the tile by the player
+- 
 
 ## UI
 Text-based, grid style.
