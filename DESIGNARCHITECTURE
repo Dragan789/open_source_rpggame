@@ -21,7 +21,7 @@ Gain 1 Viking
 Steal a card from a player
 
 ## Interactions
-
+When a player enters a new tile, this triggers an interaction.
 
 ## UI
-
+Text-based, grid style.
